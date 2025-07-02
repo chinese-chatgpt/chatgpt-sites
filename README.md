@@ -40,7 +40,7 @@
 | [chat.lanjingai.org](https://chat.lanjingai.org)   | GPT-4.1, GPT-4o, o1, o3, Claude 4 Sonnet, Gemini 2.5 Pro, Grok 3  | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 运营时长两年，支持 4o 绘图，适合国内用户 |
 | [xsimplechat.com](https://xsimplechat.com)         | GPT-4.1, GPT-4o, o1, o3, Claude 4 Sonnet, Gemini 2.5 Pro, Grok 3  | 有              | 国内邮箱使用        | ⭐⭐⭐⭐⭐    | 支持所有顶尖模型，支持AI助手、AI插件、AI知识库，功能丰富全面    |
 | [chat.yixiaai.com](https://chat.yixiaai.com)       | GPT-4.1, GPT-4o, o3, Claude 4 Sonnet, Gemini 2.5 Pro, DeepSeek R1 | 有              | 微信扫码使用        | ⭐⭐⭐⭐     | 支持优质大模型，提供长时间服务                 |
-| [talk.lanjing.pro](https://talk.lanjing.pro)       | GPT-4.1, GPT-4o, o1, o3, Claude 4 Sonnet, Gemini 2.5 Pro          | 有              | 邮箱登录使用        | ⭐⭐⭐      | 使用简单，适合基础聊天用途                   |
+| [gpt.lanjing.pro](https://gpt.lanjing.pro)       | GPT-4.1, GPT-4o, o1, o3, Claude 4 Sonnet, Gemini 2.5 Pro          | 有              | 邮箱登录使用        | ⭐⭐⭐      | 使用简单，适合基础聊天用途                   |
 
 ---
 
